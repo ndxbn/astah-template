@@ -11,4 +11,4 @@ git clone git@github.com:ndxbn/astah-template.git %UserProfile%\.astah\professio
 
 ## Usage
 
-See [here (jp blog](https://ja.astahblog.com/2014/11/09/user-template/).
+See [here (jp blog article)](https://ja.astahblog.com/2014/11/09/user-template/).
